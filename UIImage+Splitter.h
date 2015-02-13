@@ -2,7 +2,7 @@
 //  UIImage+Splitter.h
 //  VideoWall
 //
-//  Created by frowing on 5/9/12.
+//  Created by Fran on 5/9/12.
 //
 
 #import <UIKit/UIKit.h>
